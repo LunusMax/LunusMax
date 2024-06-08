@@ -21,8 +21,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender">
-</p>
-
-![snake gif](https://github.com/LunusMax/LunusMax/blob/output/github-contribution-grid-snake.svg)
-
-          
+</p>        
