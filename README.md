@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
 
+![Lucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunusMax&show_icons=true&theme=shades-of-purple)
