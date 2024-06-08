@@ -8,5 +8,4 @@
 - 📫 How to reach me: luciovanunes@gmail.com or linkedin.com/in/lucionunes/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
--->
 
