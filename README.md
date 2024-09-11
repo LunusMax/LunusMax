@@ -11,7 +11,7 @@
 
 I finished Harvard University CS50 and this is my fellow duck
 
-<img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="150"/>
+<img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="75"/>
 
 <h2>Technologies & Tools I Use</h2>
 
