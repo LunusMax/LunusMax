@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
 
+- I finished CS50 and this is my fellow duck
+
 ![Lucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunusMax&show_icons=true&theme=midnight-purple)
 
 <h2>Technologies & Tools I Use</h2>
