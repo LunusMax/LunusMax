@@ -10,6 +10,8 @@
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
 
 - I finished CS50 and this is my fellow duck
+![CS50 Rubber Duck]([images/nome-da-imagem.png](https://github.com/LunusMax/LunusMax/blob/main/.github/workflows/duck.png))
+
 
 ![Lucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunusMax&show_icons=true&theme=midnight-purple)
 
