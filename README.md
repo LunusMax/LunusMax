@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
 
-I finished Harvard University CS50 and this is my fellow duck <span style="margin-left: 10px;"><img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="60"/></span>
+I finished Harvard University CS50 and this is my fellow duck <span style="margin-left: 100px;"><img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="60"/></span>
 
 
 <h2>Technologies & Tools I Use</h2>
