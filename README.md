@@ -11,11 +11,7 @@
 
 I finished Harvard University CS50 and this is my fellow duck
 
-![CS50 Rubber Duck](https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png)
-
-
-
-![Lucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunusMax&show_icons=true&theme=midnight-purple)
+<img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="200"/>
 
 <h2>Technologies & Tools I Use</h2>
 
