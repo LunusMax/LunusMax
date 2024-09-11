@@ -10,8 +10,7 @@
 - ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
 
 I finished Harvard University CS50 and this is my fellow duck
-
-<img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="75"/>
+<img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="60"/>
 
 <h2>Technologies & Tools I Use</h2>
 
