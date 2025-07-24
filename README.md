@@ -1,13 +1,13 @@
 ## Hi there! I'm Lucio Nunes (LunusMax on Github) 👋
 
 - 🔭 I’m currently working on a master's thesis in computer science focused on data science for football using machine learning techniques.
-- 🌱 I’m currently learning SQL and improving my data analysis skills through EBAC data analysis course.
-- 👯 I’m looking to collaborate on projects related to sports analytics, machine learning, and graphic design.
+- 🌱 I’m currently learning SQL and improving my data analysis skills.
+- 👯 I’m looking to collaborate on projects related to sports analytics, machine learning, and software development.
 - 🤔 I’m looking for help with advanced SQL queries and optimization for large datasets.
-- 💬 Ask me about Python programming, C, machine learning applications in sports, or graphic design.
+- 💬 Ask me about Python programming, C or machine learning applications in sports.
 - 📫 How to reach me: luciovanunes@gmail.com or linkedin.com/in/lucionunes/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides being a data scientist and programmer, I run my own design business, creating personal brands and logos. I also dream of creating an indie game one day.
+- ⚡ Fun fact: Besides being a data scientist and programmer, I run my own animation business (3D), using Blender. I also dream of creating an indie game one day.
 
 I finished Harvard University CS50 and this is my fellow duck 
 
